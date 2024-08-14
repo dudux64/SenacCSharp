@@ -1,0 +1,17 @@
+C:\Users\62127702024.2\source\repos\Carros\bin\Debug\net6.0-windows\Carros.exe
+C:\Users\62127702024.2\source\repos\Carros\bin\Debug\net6.0-windows\Carros.deps.json
+C:\Users\62127702024.2\source\repos\Carros\bin\Debug\net6.0-windows\Carros.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Carros\bin\Debug\net6.0-windows\Carros.dll
+C:\Users\62127702024.2\source\repos\Carros\bin\Debug\net6.0-windows\Carros.pdb
+C:\Users\62127702024.2\source\repos\Carros\obj\Debug\net6.0-windows\Carros.Form1.resources
+C:\Users\62127702024.2\source\repos\Carros\obj\Debug\net6.0-windows\Carros.Properties.Resources.resources
+C:\Users\62127702024.2\source\repos\Carros\obj\Debug\net6.0-windows\Carros.csproj.GenerateResource.cache
+C:\Users\62127702024.2\source\repos\Carros\obj\Debug\net6.0-windows\Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Carros\obj\Debug\net6.0-windows\Carros.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Carros\obj\Debug\net6.0-windows\Carros.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Carros\obj\Debug\net6.0-windows\Carros.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Carros\obj\Debug\net6.0-windows\Carros.dll
+C:\Users\62127702024.2\source\repos\Carros\obj\Debug\net6.0-windows\refint\Carros.dll
+C:\Users\62127702024.2\source\repos\Carros\obj\Debug\net6.0-windows\Carros.pdb
+C:\Users\62127702024.2\source\repos\Carros\obj\Debug\net6.0-windows\Carros.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Carros\obj\Debug\net6.0-windows\ref\Carros.dll

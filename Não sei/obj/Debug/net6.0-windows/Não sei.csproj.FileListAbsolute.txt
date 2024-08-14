@@ -1,0 +1,17 @@
+C:\Users\62127702024.2\source\repos\Não sei\obj\Debug\net6.0-windows\Não_sei.Form1.resources
+C:\Users\62127702024.2\source\repos\Não sei\obj\Debug\net6.0-windows\Não_sei.Properties.Resources.resources
+C:\Users\62127702024.2\source\repos\Não sei\obj\Debug\net6.0-windows\Não sei.csproj.GenerateResource.cache
+C:\Users\62127702024.2\source\repos\Não sei\obj\Debug\net6.0-windows\Não sei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Não sei\obj\Debug\net6.0-windows\Não sei.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Não sei\obj\Debug\net6.0-windows\Não sei.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Não sei\obj\Debug\net6.0-windows\Não sei.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Não sei\bin\Debug\net6.0-windows\Não sei.exe
+C:\Users\62127702024.2\source\repos\Não sei\bin\Debug\net6.0-windows\Não sei.deps.json
+C:\Users\62127702024.2\source\repos\Não sei\bin\Debug\net6.0-windows\Não sei.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Não sei\bin\Debug\net6.0-windows\Não sei.dll
+C:\Users\62127702024.2\source\repos\Não sei\bin\Debug\net6.0-windows\Não sei.pdb
+C:\Users\62127702024.2\source\repos\Não sei\obj\Debug\net6.0-windows\Não sei.dll
+C:\Users\62127702024.2\source\repos\Não sei\obj\Debug\net6.0-windows\refint\Não sei.dll
+C:\Users\62127702024.2\source\repos\Não sei\obj\Debug\net6.0-windows\Não sei.pdb
+C:\Users\62127702024.2\source\repos\Não sei\obj\Debug\net6.0-windows\Não sei.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Não sei\obj\Debug\net6.0-windows\ref\Não sei.dll

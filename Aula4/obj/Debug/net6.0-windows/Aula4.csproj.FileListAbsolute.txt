@@ -1,0 +1,16 @@
+C:\Users\62127702024.2\source\repos\Aula4\bin\Debug\net6.0-windows\Aula4.exe
+C:\Users\62127702024.2\source\repos\Aula4\bin\Debug\net6.0-windows\Aula4.deps.json
+C:\Users\62127702024.2\source\repos\Aula4\bin\Debug\net6.0-windows\Aula4.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Aula4\bin\Debug\net6.0-windows\Aula4.dll
+C:\Users\62127702024.2\source\repos\Aula4\bin\Debug\net6.0-windows\Aula4.pdb
+C:\Users\62127702024.2\source\repos\Aula4\obj\Debug\net6.0-windows\Aula4.Form1.resources
+C:\Users\62127702024.2\source\repos\Aula4\obj\Debug\net6.0-windows\Aula4.csproj.GenerateResource.cache
+C:\Users\62127702024.2\source\repos\Aula4\obj\Debug\net6.0-windows\Aula4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Aula4\obj\Debug\net6.0-windows\Aula4.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Aula4\obj\Debug\net6.0-windows\Aula4.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Aula4\obj\Debug\net6.0-windows\Aula4.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Aula4\obj\Debug\net6.0-windows\Aula4.dll
+C:\Users\62127702024.2\source\repos\Aula4\obj\Debug\net6.0-windows\refint\Aula4.dll
+C:\Users\62127702024.2\source\repos\Aula4\obj\Debug\net6.0-windows\Aula4.pdb
+C:\Users\62127702024.2\source\repos\Aula4\obj\Debug\net6.0-windows\Aula4.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Aula4\obj\Debug\net6.0-windows\ref\Aula4.dll
