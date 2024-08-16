@@ -1,0 +1,16 @@
+C:\Users\62127702024.2\source\repos\App de desconto\bin\Debug\net6.0-windows\App de desconto.exe
+C:\Users\62127702024.2\source\repos\App de desconto\bin\Debug\net6.0-windows\App de desconto.deps.json
+C:\Users\62127702024.2\source\repos\App de desconto\bin\Debug\net6.0-windows\App de desconto.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\App de desconto\bin\Debug\net6.0-windows\App de desconto.dll
+C:\Users\62127702024.2\source\repos\App de desconto\bin\Debug\net6.0-windows\App de desconto.pdb
+C:\Users\62127702024.2\source\repos\App de desconto\obj\Debug\net6.0-windows\App_de_desconto.Form1.resources
+C:\Users\62127702024.2\source\repos\App de desconto\obj\Debug\net6.0-windows\App de desconto.csproj.GenerateResource.cache
+C:\Users\62127702024.2\source\repos\App de desconto\obj\Debug\net6.0-windows\App de desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\App de desconto\obj\Debug\net6.0-windows\App de desconto.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\App de desconto\obj\Debug\net6.0-windows\App de desconto.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\App de desconto\obj\Debug\net6.0-windows\App de desconto.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\App de desconto\obj\Debug\net6.0-windows\App de desconto.dll
+C:\Users\62127702024.2\source\repos\App de desconto\obj\Debug\net6.0-windows\refint\App de desconto.dll
+C:\Users\62127702024.2\source\repos\App de desconto\obj\Debug\net6.0-windows\App de desconto.pdb
+C:\Users\62127702024.2\source\repos\App de desconto\obj\Debug\net6.0-windows\App de desconto.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\App de desconto\obj\Debug\net6.0-windows\ref\App de desconto.dll

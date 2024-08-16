@@ -1,0 +1,16 @@
+C:\Users\62127702024.2\source\repos\Livraria\bin\Debug\net6.0-windows\Livraria.exe
+C:\Users\62127702024.2\source\repos\Livraria\bin\Debug\net6.0-windows\Livraria.deps.json
+C:\Users\62127702024.2\source\repos\Livraria\bin\Debug\net6.0-windows\Livraria.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Livraria\bin\Debug\net6.0-windows\Livraria.dll
+C:\Users\62127702024.2\source\repos\Livraria\bin\Debug\net6.0-windows\Livraria.pdb
+C:\Users\62127702024.2\source\repos\Livraria\obj\Debug\net6.0-windows\Livraria.Form1.resources
+C:\Users\62127702024.2\source\repos\Livraria\obj\Debug\net6.0-windows\Livraria.csproj.GenerateResource.cache
+C:\Users\62127702024.2\source\repos\Livraria\obj\Debug\net6.0-windows\Livraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Livraria\obj\Debug\net6.0-windows\Livraria.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Livraria\obj\Debug\net6.0-windows\Livraria.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Livraria\obj\Debug\net6.0-windows\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Livraria\obj\Debug\net6.0-windows\Livraria.dll
+C:\Users\62127702024.2\source\repos\Livraria\obj\Debug\net6.0-windows\refint\Livraria.dll
+C:\Users\62127702024.2\source\repos\Livraria\obj\Debug\net6.0-windows\Livraria.pdb
+C:\Users\62127702024.2\source\repos\Livraria\obj\Debug\net6.0-windows\Livraria.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Livraria\obj\Debug\net6.0-windows\ref\Livraria.dll
