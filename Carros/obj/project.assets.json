@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\62127702024.2\\source\\repos\\Carros\\Carros.csproj",
+      "projectUniqueName": "C:\\Users\\62127702024.2\\Documents\\GitHub\\C# Senac\\SenacCSharp\\Carros\\Carros.csproj",
       "projectName": "Carros",
-      "projectPath": "C:\\Users\\62127702024.2\\source\\repos\\Carros\\Carros.csproj",
+      "projectPath": "C:\\Users\\62127702024.2\\Documents\\GitHub\\C# Senac\\SenacCSharp\\Carros\\Carros.csproj",
       "packagesPath": "C:\\Users\\62127702024.2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\62127702024.2\\source\\repos\\Carros\\obj\\",
+      "outputPath": "C:\\Users\\62127702024.2\\Documents\\GitHub\\C# Senac\\SenacCSharp\\Carros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
