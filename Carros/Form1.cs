@@ -32,7 +32,7 @@ namespace Carros
                     value += 550;
                 }
 
-                // Adiciona 350 ao valor se a segunda CheckBox estiver marcada
+
                 if (checkBox2.Checked)
                 {
                     value += 350;
