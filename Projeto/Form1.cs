@@ -19,6 +19,8 @@ namespace Projeto
             listViewClientes.Columns.Add("ID", 50, HorizontalAlignment.Left);
             listViewClientes.Columns.Add("Nome", 150, HorizontalAlignment.Left);
             listViewClientes.Columns.Add("Email", 200, HorizontalAlignment.Left);
+            listViewClientes.Columns.Add("Data e Criação", 200, HorizontalAlignment.Left);
+            listViewClientes.Columns.Add("Status", 200, HorizontalAlignment.Left);
             listViewClientes.FullRowSelect = true; // Ativa a seleção da linha toda
             listViewClientes.GridLines = true; // Adiciona linhas de grade para melhor visualização
                                                // Carrega os clientes na ListView
@@ -34,7 +36,7 @@ namespace Projeto
                 conexao.Open();
 
                 // Query SQL para selecionar todos os registros da tabela 'usuarios'
-                string query = "SELECT UsuarioID, nome, email FROM Cliente";
+                string query = "SELECT UsuarioID, nome, email, DataCriacao, Status FROM Cliente where Status = 'Ativo'";
                 MySqlCommand cmd = new MySqlCommand(query, conexao);
                 MySqlDataReader reader = cmd.ExecuteReader();
 
@@ -48,6 +50,8 @@ namespace Projeto
                     ListViewItem item = new ListViewItem(reader["UsuarioID"].ToString());
                     item.SubItems.Add(reader["nome"].ToString());
                     item.SubItems.Add(reader["email"].ToString());
+                    item.SubItems.Add(reader["DataCriacao"].ToString());
+                    item.SubItems.Add(reader["Status"].ToString());
                     listViewClientes.Items.Add(item);
                 }
 
@@ -65,4 +69,4 @@ namespace Projeto
         }
 
     }
-}   
+}
