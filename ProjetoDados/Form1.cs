@@ -18,6 +18,7 @@ namespace ProjetoDados
             listViewClientes.Columns.Add("ID", 50, HorizontalAlignment.Left);
             listViewClientes.Columns.Add("Nome", 150, HorizontalAlignment.Left);
             listViewClientes.Columns.Add("Email", 200, HorizontalAlignment.Left);
+            listViewClientes.Columns.Add("Idade", 200, HorizontalAlignment.Left);
             listViewClientes.FullRowSelect = true; // Ativa a seleção da linha toda
             listViewClientes.GridLines = true; // Adiciona linhas de grade para melhor visualização
                                                // Carrega os usuarioss na ListView
@@ -172,6 +173,12 @@ namespace ProjetoDados
 
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+            // Exibe o Form2 como uma nova janela
+            form2.Show();
+        }
     }
 
 }

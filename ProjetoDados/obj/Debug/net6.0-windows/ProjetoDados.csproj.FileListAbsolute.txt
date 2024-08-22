@@ -40,3 +40,4 @@ C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ProjetoDados\bin\De
 C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ProjetoDados\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ProjetoDados\obj\Debug\net6.0-windows\ProjetoDados.csproj.AssemblyReference.cache
 C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ProjetoDados\obj\Debug\net6.0-windows\ProjetoDados.csproj.CopyComplete
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ProjetoDados\obj\Debug\net6.0-windows\ProjetoDados.Form2.resources
