@@ -34,13 +34,15 @@
             textBox1 = new TextBox();
             textBox2 = new TextBox();
             label2 = new Label();
+            textBox3 = new TextBox();
+            label3 = new Label();
             SuspendLayout();
             // 
             // listViewClientes
             // 
-            listViewClientes.Location = new Point(366, 12);
+            listViewClientes.Location = new Point(192, 12);
             listViewClientes.Name = "listViewClientes";
-            listViewClientes.Size = new Size(398, 413);
+            listViewClientes.Size = new Size(596, 426);
             listViewClientes.TabIndex = 0;
             listViewClientes.UseCompatibleStateImageBehavior = false;
             listViewClientes.SelectedIndexChanged += listView1_SelectedIndexChanged;
@@ -48,7 +50,7 @@
             // button1
             // 
             button1.Font = new Font("Microsoft Himalaya", 21.75F, FontStyle.Regular, GraphicsUnit.Point);
-            button1.Location = new Point(74, 261);
+            button1.Location = new Point(12, 328);
             button1.Name = "button1";
             button1.Size = new Size(174, 40);
             button1.TabIndex = 1;
@@ -60,7 +62,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Microsoft Himalaya", 21.75F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.Location = new Point(130, 184);
+            label1.Location = new Point(68, 186);
             label1.Name = "label1";
             label1.Size = new Size(59, 29);
             label1.TabIndex = 2;
@@ -70,7 +72,7 @@
             // textBox1
             // 
             textBox1.Font = new Font("Microsoft Himalaya", 21.75F, FontStyle.Regular, GraphicsUnit.Point);
-            textBox1.Location = new Point(74, 144);
+            textBox1.Location = new Point(12, 146);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(174, 36);
             textBox1.TabIndex = 3;
@@ -79,7 +81,7 @@
             // textBox2
             // 
             textBox2.Font = new Font("Microsoft Himalaya", 21.75F, FontStyle.Regular, GraphicsUnit.Point);
-            textBox2.Location = new Point(74, 208);
+            textBox2.Location = new Point(12, 210);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(174, 36);
             textBox2.TabIndex = 4;
@@ -89,12 +91,32 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Microsoft Himalaya", 21.75F, FontStyle.Regular, GraphicsUnit.Point);
-            label2.Location = new Point(128, 112);
+            label2.Location = new Point(66, 114);
             label2.Name = "label2";
             label2.Size = new Size(61, 29);
             label2.TabIndex = 5;
             label2.Text = "Nome";
             label2.Click += label2_Click;
+            // 
+            // textBox3
+            // 
+            textBox3.Font = new Font("Microsoft Himalaya", 21.75F, FontStyle.Regular, GraphicsUnit.Point);
+            textBox3.Location = new Point(12, 277);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(174, 36);
+            textBox3.TabIndex = 7;
+            textBox3.TextChanged += textBox3_TextChanged;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Font = new Font("Microsoft Himalaya", 21.75F, FontStyle.Regular, GraphicsUnit.Point);
+            label3.Location = new Point(68, 249);
+            label3.Name = "label3";
+            label3.Size = new Size(68, 29);
+            label3.TabIndex = 6;
+            label3.Text = "Salario";
+            label3.Click += label3_Click;
             // 
             // Form2
             // 
@@ -102,6 +124,8 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(800, 450);
+            Controls.Add(textBox3);
+            Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
@@ -123,5 +147,7 @@
         private TextBox textBox1;
         private TextBox textBox2;
         private Label label2;
+        private TextBox textBox3;
+        private Label label3;
     }
 }

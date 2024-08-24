@@ -34,9 +34,9 @@
             // 
             // listViewClientes
             // 
-            listViewClientes.Location = new Point(214, 12);
+            listViewClientes.Location = new Point(128, 12);
             listViewClientes.Name = "listViewClientes";
-            listViewClientes.Size = new Size(574, 426);
+            listViewClientes.Size = new Size(660, 426);
             listViewClientes.TabIndex = 0;
             listViewClientes.UseCompatibleStateImageBehavior = false;
             listViewClientes.SelectedIndexChanged += listView1_SelectedIndexChanged;
@@ -46,7 +46,7 @@
             button1.Font = new Font("Segoe UI", 20F, FontStyle.Regular, GraphicsUnit.Point);
             button1.Location = new Point(17, 204);
             button1.Name = "button1";
-            button1.Size = new Size(173, 62);
+            button1.Size = new Size(105, 62);
             button1.TabIndex = 1;
             button1.Text = "Excluir";
             button1.UseVisualStyleBackColor = true;

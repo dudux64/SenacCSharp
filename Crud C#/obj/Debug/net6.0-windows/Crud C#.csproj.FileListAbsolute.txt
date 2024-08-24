@@ -43,3 +43,4 @@ C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Debug\n
 C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Debug\net6.0-windows\Crud C#.csproj.CopyComplete
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Debug\net6.0-windows\Crud_C_.Form5.resources

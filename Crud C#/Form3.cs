@@ -74,14 +74,8 @@ namespace Crud_C_
         }
         private void Form3_Load(object sender, EventArgs e)
         {
-            listViewClientes.View = View.Details;
-            listViewClientes.Columns.Add("ID", 50, HorizontalAlignment.Left);
-            listViewClientes.Columns.Add("Nome", 150, HorizontalAlignment.Left);
-            listViewClientes.Columns.Add("Email", 200, HorizontalAlignment.Left);
-            listViewClientes.FullRowSelect = true; // Ativa a seleção da linha toda
-            listViewClientes.GridLines = true; // Adiciona linhas de grade para melhor visualização
-                                               // Carrega os usuarioss na ListView
-           ClienteCarregador.CarregarClientes(listViewClientes);
+            ClienteLoarder.CarregarLoader(listViewClientes);
+            ClienteCarregador.CarregarClientes(listViewClientes);
         }
     }
 }

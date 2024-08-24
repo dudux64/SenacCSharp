@@ -50,26 +50,26 @@ namespace Crud_C_
                     // Verifica se o registro foi excluído com sucesso
                     if (linhasAfetadas > 0)
                     {
-                        MessageBox.Show("Cliente excluído com sucesso!");
+                        MessageBox.Show("Cliente alterado com sucesso!");
                         // Atualiza o ListView após a exclusão
                         ClienteCarregador.CarregarClientes(listViewClientes);
                     }
                     else
                     {
-                        MessageBox.Show("Falha ao excluir o usuarios.");
+                        MessageBox.Show("Falha ao alterar o usuario.");
                     }
 
                     conexao.Close();
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show($"Erro ao excluir o usuarios: {ex.Message}");
+                    MessageBox.Show($"Erro ao alterar o usuario: {ex.Message}");
                 }
             }
             else
             {
                 // Exibe uma mensagem caso nenhum usuarios tenha sido selecionado
-                MessageBox.Show("Por favor, selecione um usuarios para excluir.");
+                MessageBox.Show("Por favor, selecione um usuarios para alterar.");
             }
         }
 
@@ -100,13 +100,7 @@ namespace Crud_C_
 
         private void Form4_Load(object sender, EventArgs e)
         {
-            listViewClientes.View = View.Details;
-            listViewClientes.Columns.Add("ID", 50, HorizontalAlignment.Left);
-            listViewClientes.Columns.Add("Nome", 150, HorizontalAlignment.Left);
-            listViewClientes.Columns.Add("Email", 200, HorizontalAlignment.Left);
-            listViewClientes.FullRowSelect = true; // Ativa a seleção da linha toda
-            listViewClientes.GridLines = true; // Adiciona linhas de grade para melhor visualização
-                                               // Carrega os usuarioss na ListView
+            ClienteLoarder.CarregarLoader(listViewClientes);
             ClienteCarregador.CarregarClientes(listViewClientes);
         }
     }

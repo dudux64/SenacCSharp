@@ -32,5 +32,12 @@ namespace Crud_C_
         {
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form5 form5 = new Form5();
+            // Exibe o Form2 como uma nova janela
+            form5.Show();
+        }
     }
 }

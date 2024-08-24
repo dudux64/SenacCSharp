@@ -1,0 +1,46 @@
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\Crud C#.exe
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\Crud C#.deps.json
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\Crud C#.runtimeconfig.json
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\Crud C#.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\Crud C#.pdb
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\Google.Protobuf.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\MySql.Data.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\System.Security.Permissions.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\System.Text.Json.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\ZstdSharp.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud C#.csproj.AssemblyReference.cache
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud_C_.Form1.resources
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud_C_.Form2.resources
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud_C_.Form3.resources
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud_C_.Form4.resources
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud_C_.Form5.resources
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud C#.csproj.GenerateResource.cache
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud C#.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud C#.AssemblyInfo.cs
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud C#.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud C#.csproj.CopyComplete
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud C#.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\refint\Crud C#.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud C#.pdb
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\Crud C#.genruntimeconfig.cache
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Crud C#\obj\Release\net6.0-windows\ref\Crud C#.dll

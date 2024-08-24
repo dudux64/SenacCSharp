@@ -32,12 +32,13 @@
             button2 = new Button();
             button3 = new Button();
             label1 = new Label();
+            button4 = new Button();
             SuspendLayout();
             // 
             // button1
             // 
             button1.Font = new Font("Segoe UI", 15F, FontStyle.Regular, GraphicsUnit.Point);
-            button1.Location = new Point(288, 154);
+            button1.Location = new Point(302, 132);
             button1.Name = "button1";
             button1.Size = new Size(208, 66);
             button1.TabIndex = 0;
@@ -48,7 +49,7 @@
             // button2
             // 
             button2.Font = new Font("Segoe UI", 15F, FontStyle.Regular, GraphicsUnit.Point);
-            button2.Location = new Point(288, 238);
+            button2.Location = new Point(302, 282);
             button2.Name = "button2";
             button2.Size = new Size(208, 70);
             button2.TabIndex = 1;
@@ -59,7 +60,7 @@
             // button3
             // 
             button3.Font = new Font("Segoe UI", 15F, FontStyle.Regular, GraphicsUnit.Point);
-            button3.Location = new Point(288, 331);
+            button3.Location = new Point(302, 204);
             button3.Name = "button3";
             button3.Size = new Size(208, 72);
             button3.TabIndex = 2;
@@ -71,12 +72,23 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Microsoft Himalaya", 72F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point);
-            label1.Location = new Point(110, 38);
+            label1.Location = new Point(118, 12);
             label1.Name = "label1";
             label1.Size = new Size(579, 96);
             label1.TabIndex = 3;
             label1.Text = "Sistema de Cadastro";
             label1.Click += label1_Click;
+            // 
+            // button4
+            // 
+            button4.Font = new Font("Segoe UI", 15F, FontStyle.Regular, GraphicsUnit.Point);
+            button4.Location = new Point(302, 358);
+            button4.Name = "button4";
+            button4.Size = new Size(208, 70);
+            button4.TabIndex = 4;
+            button4.Text = "Buscar";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // Form1
             // 
@@ -84,6 +96,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(800, 450);
+            Controls.Add(button4);
             Controls.Add(label1);
             Controls.Add(button3);
             Controls.Add(button2);
@@ -100,5 +113,6 @@
         private Button button2;
         private Button button3;
         private Label label1;
+        private Button button4;
     }
 }

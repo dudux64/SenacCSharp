@@ -39,9 +39,9 @@
             // button1
             // 
             button1.Font = new Font("Microsoft Sans Serif", 20.25F, FontStyle.Regular, GraphicsUnit.Point);
-            button1.Location = new Point(34, 298);
+            button1.Location = new Point(10, 301);
             button1.Name = "button1";
-            button1.Size = new Size(197, 41);
+            button1.Size = new Size(157, 41);
             button1.TabIndex = 0;
             button1.Text = "Alterar";
             button1.UseVisualStyleBackColor = true;
@@ -51,7 +51,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Microsoft Sans Serif", 20.25F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.Location = new Point(91, 108);
+            label1.Location = new Point(40, 116);
             label1.Name = "label1";
             label1.Size = new Size(86, 31);
             label1.TabIndex = 3;
@@ -62,7 +62,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Microsoft Sans Serif", 20.25F, FontStyle.Regular, GraphicsUnit.Point);
-            label2.Location = new Point(98, 199);
+            label2.Location = new Point(40, 208);
             label2.Name = "label2";
             label2.Size = new Size(81, 31);
             label2.TabIndex = 4;
@@ -72,17 +72,17 @@
             // textBox1
             // 
             textBox1.Font = new Font("Microsoft Sans Serif", 20.25F, FontStyle.Regular, GraphicsUnit.Point);
-            textBox1.Location = new Point(34, 239);
+            textBox1.Location = new Point(10, 242);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(197, 38);
+            textBox1.Size = new Size(157, 38);
             textBox1.TabIndex = 5;
             textBox1.TextChanged += textBox1_TextChanged;
             // 
             // listViewClientes
             // 
-            listViewClientes.Location = new Point(267, 12);
+            listViewClientes.Location = new Point(173, 12);
             listViewClientes.Name = "listViewClientes";
-            listViewClientes.Size = new Size(521, 417);
+            listViewClientes.Size = new Size(615, 417);
             listViewClientes.TabIndex = 6;
             listViewClientes.UseCompatibleStateImageBehavior = false;
             listViewClientes.SelectedIndexChanged += listView1_SelectedIndexChanged;
@@ -90,9 +90,9 @@
             // textBox2
             // 
             textBox2.Font = new Font("Microsoft Sans Serif", 20.25F, FontStyle.Regular, GraphicsUnit.Point);
-            textBox2.Location = new Point(36, 147);
+            textBox2.Location = new Point(12, 150);
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(195, 38);
+            textBox2.Size = new Size(155, 38);
             textBox2.TabIndex = 7;
             textBox2.TextChanged += textBox2_TextChanged;
             // 
