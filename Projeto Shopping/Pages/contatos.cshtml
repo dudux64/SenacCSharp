@@ -1,0 +1,100 @@
+﻿@page
+@model Projeto_Shopping.Pages.contatosModel
+@{
+    ViewData["Title"] = "Contatos";
+}
+<section class="text-center">
+
+
+    <h3 class="mb-5">Entre em Contato!</h3>
+
+    <div class="row">
+        <div class="col-lg-5">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.6101984085108!2d-43.355462223775454!3d-23.001357241259505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bda40c628e1cb%3A0xf9c6475a81e2887e!2sMarapendi%20Shopping!5e0!3m2!1spt-BR!2sbr!4v1725053053769!5m2!1spt-BR!2sbr"
+                    class="h-100 w-100" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+
+        <div class="col-lg-7">
+            <form>
+                <div class="row">
+                    <div class="col-md-9">
+                        <div class="row mb-4">
+                            <div class="col-md-6 mb-4 mb-md-0">
+                                <div data-mdb-input-init class="form-outline">
+                                    <input type="text" id="form3Example1" class="form-control" />
+                                    <label class="form-label" for="form3Example1">Primeiro Nome</label>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div data-mdb-input-init class="form-outline">
+                                    <input type="email" id="form3Example2" class="form-control" />
+                                    <label class="form-label" for="form3Example2">Email</label>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-mdb-input-init class="form-outline mb-4">
+                            <input type="text" id="form3Example3" class="form-control" />
+                            <label class="form-label" for="form3Example3">Assunto</label>
+                        </div>
+                        <div data-mdb-input-init class="form-outline mb-4">
+                            <textarea class="form-control" id="form4Example3" rows="4"></textarea>
+                            <label class="form-label" for="form4Example3">Mensagem</label>
+                        </div>
+                        <div class="text-center text-md-start" style="display:contents;">
+                            <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn btn-warning mb-5 mb-md-0" style="width: 200px; height: 50px;">
+                                Enviar
+                            </button>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <ul class="list-unstyled">
+                            <li>
+                                <i class="fas fa-map-marker-alt fa-2x text-primary"></i>
+                                <p>
+                                    <h6 class="fas fa-map-marker-alt fa-2x text-primary">HORÁRIO DE FUNCIONAMENTO</h6>
+                                    <small>
+                                        De Segunda à Sexta: De 7hs às 22hs<br>
+                                        Sábados: De 8hs às 20hs<br>
+                                        Domingos e Feriados: Fechado
+                                    </small>
+                                </p>
+                            </li>
+                            <li>
+                                <i class="fas fa-map-marker-alt fa-2x text-primary"></i>
+                                <p>
+                                    <h6 class="fas fa-map-marker-alt fa-2x text-primary">NOSSO ENDEREÇO</h6>
+                                    <small>
+                                        Av. das Américas, 3959 - Barra da Tijuca<br>
+                                        Rio de Janeiro/RJ<br>
+                                        CEP: 22631-003
+                                    </small>
+                                </p>
+                            </li>
+                            <li>
+                                <i class="fas fa-map-marker-alt fa-2x text-primary"></i>
+                                <p>
+                                    <h6 class="fas fa-map-marker-alt fa-2x text-primary">NOSSO EMAIL</h6>
+                                    <small>
+                                        gerencia@marapendishopping.com.br
+                                    </small>
+                                </p>
+                            </li>
+                            <li>
+                                <i class="fas fa-map-marker-alt fa-2x text-primary"></i>
+                                <p>
+                                    <h6 class="fas fa-map-marker-alt fa-2x text-primary">NOSSO TELEFONE</h6>
+                                    <small>
+                                        (21) 3325-1995
+                                    </small>
+                                </p>
+                            </li>
+                        </ul>
+
+                </div>
+            </form>
+
+        </div>
+    </div>
+
+
+</section>
