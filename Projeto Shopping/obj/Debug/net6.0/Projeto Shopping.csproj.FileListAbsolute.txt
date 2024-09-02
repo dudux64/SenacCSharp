@@ -28,3 +28,34 @@ C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Projeto Shopping\ob
 C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\Projeto Shopping.pdb
 C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\Projeto Shopping.genruntimeconfig.cache
 C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\ref\Projeto Shopping.dll
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\bin\Debug\net6.0\appsettings.json
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\bin\Debug\net6.0\Projeto Shopping.staticwebassets.runtime.json
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\bin\Debug\net6.0\Projeto Shopping.exe
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\bin\Debug\net6.0\Projeto Shopping.deps.json
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\bin\Debug\net6.0\Projeto Shopping.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\bin\Debug\net6.0\Projeto Shopping.dll
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\bin\Debug\net6.0\Projeto Shopping.pdb
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\Projeto Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\Projeto Shopping.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\Projeto Shopping.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\Projeto Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\Projeto Shopping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\Projeto Shopping.RazorAssemblyInfo.cache
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\Projeto Shopping.RazorAssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\Projeto Shopping.sourcelink.json
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\staticwebassets\msbuild.Projeto Shopping.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\staticwebassets\msbuild.build.Projeto Shopping.props
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Projeto Shopping.props
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Projeto Shopping.props
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\scopedcss\bundle\Projeto Shopping.styles.css
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\scopedcss\projectbundle\Projeto Shopping.bundle.scp.css
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\Projeto Shopping.dll
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\refint\Projeto Shopping.dll
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\Projeto Shopping.pdb
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\Projeto Shopping.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Documentos\GitHub\SenacCSharp\Projeto Shopping\obj\Debug\net6.0\ref\Projeto Shopping.dll
