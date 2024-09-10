@@ -23,7 +23,7 @@ class Program
 
         bool concluido = false;
         Console.Write("A tarefa está concluída? (Sim/Não): ");
-        String resposta = Console.ReadLine().ToLower();
+        string resposta = Console.ReadLine().ToLower();
 
         if (resposta == "sim")
         { 
