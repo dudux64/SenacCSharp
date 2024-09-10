@@ -59,9 +59,19 @@ namespace Projeto_Shopping.Pages
                 Sessoes = "13:00, 17:00",
                 ImagemUrl = "/images/LuccaseGiemDinossauros.jpg"
             },
+            new Filme
+            {
+                Titulo = "O Último Guardião",
+                Genero = "Aventura/Fantasia",
+                Duracao = 142,
+                Sessoes = "13:30, 17:45, 21:00",
+                ImagemUrl = "/images/ultimo_guardiao.jpg",
+                Descricao = "Em um mundo onde a magia está quase extinta, um jovem escolhido deve se tornar o último guardião de um antigo poder. Com a ajuda de aliados improváveis e enfrentando criaturas místicas, ele deve proteger o reino de uma ameaça que pode destruir tudo o que ele conhece. Uma jornada épica cheia de ação, magia e descobertas surpreendentes."
+            }
 
 
-        };
+
+            };
 
         }
     }

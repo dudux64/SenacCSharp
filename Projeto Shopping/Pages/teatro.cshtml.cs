@@ -12,15 +12,7 @@ namespace Projeto_Shopping.Pages
             // Simulação de um banco de dados ou repositório
             var filmes = new List<Filme>
             {
-                new Filme
-                {
-                    Titulo = "DeadPool & Wolverine",
-                    Genero = "Ação/Comédia",
-                    Duracao = 127,
-                    Sessoes = "14:00, 18:00",
-                    ImagemUrl = "/images/deadpool_wolverine.jpg",
-                    Descricao = "Deadpool e Wolverine se unem em uma missão inusitada que mistura ação e comédia, trazendo muita adrenalina e humor negro. Eles precisam enfrentar uma ameaça que desafia suas habilidades enquanto lidam com suas próprias diferenças."
-                },
+
                 new Filme
                 {
                     Titulo = "Divertida Mente 2",
@@ -65,7 +57,26 @@ namespace Projeto_Shopping.Pages
                     Sessoes = "13:00, 17:00",
                     ImagemUrl = "/images/luccas_gi_dinossauros.jpg",
                     Descricao = "Luccas e Gi embarcam em uma aventura pré-histórica ao serem transportados para um mundo cheio de dinossauros. Com coragem e inteligência, eles precisam encontrar uma maneira de voltar para casa antes que seja tarde demais."
+                },
+                new Filme
+                {
+                    Titulo = "DeadPool & Wolverine",
+                    Genero = "Ação/Comédia",
+                    Duracao = 127,
+                    Sessoes = "14:00, 18:00",
+                    ImagemUrl = "/images/deadpool_wolverine.jpg",
+                    Descricao = "Deadpool e Wolverine se unem em uma missão inusitada que mistura ação e comédia, trazendo muita adrenalina e humor negro. Eles precisam enfrentar uma ameaça que desafia suas habilidades enquanto lidam com suas próprias diferenças."
+                },
+                new Filme
+                {
+                    Titulo = "O Último Guardião",
+                    Genero = "Aventura/Fantasia",
+                    Duracao = 142,
+                    Sessoes = "13:30, 17:45, 21:00",
+                    ImagemUrl = "/images/ultimo_guardiao.jpg",
+                    Descricao = "Em um mundo onde a magia está quase extinta, um jovem escolhido deve se tornar o último guardião de um antigo poder. Com a ajuda de aliados improváveis e enfrentando criaturas místicas, ele deve proteger o reino de uma ameaça que pode destruir tudo o que ele conhece. Uma jornada épica cheia de ação, magia e descobertas surpreendentes."
                 }
+
             };
 
             // Encontra o filme pelo ID (posição na lista, por exemplo)
