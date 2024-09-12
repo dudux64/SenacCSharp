@@ -1,0 +1,17 @@
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\bin\Debug\net6.0\ControladorAula17.exe
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\bin\Debug\net6.0\ControladorAula17.deps.json
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\bin\Debug\net6.0\ControladorAula17.runtimeconfig.json
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\bin\Debug\net6.0\ControladorAula17.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\bin\Debug\net6.0\ControladorAula17.pdb
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\obj\Debug\net6.0\ControladorAula17.csproj.AssemblyReference.cache
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\obj\Debug\net6.0\ControladorAula17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\obj\Debug\net6.0\ControladorAula17.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\obj\Debug\net6.0\ControladorAula17.AssemblyInfo.cs
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\obj\Debug\net6.0\ControladorAula17.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\obj\Debug\net6.0\ControladorAula17.csproj.CopyComplete
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\obj\Debug\net6.0\ControladorAula17.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\obj\Debug\net6.0\refint\ControladorAula17.dll
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\obj\Debug\net6.0\ControladorAula17.pdb
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\obj\Debug\net6.0\ControladorAula17.genruntimeconfig.cache
+C:\Users\62127702024.2\Documents\GitHub\C# Senac\SenacCSharp\ControladorAula17\obj\Debug\net6.0\ref\ControladorAula17.dll
